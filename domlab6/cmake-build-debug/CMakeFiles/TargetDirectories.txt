@@ -1,0 +1,3 @@
+/Users/adelinazagitova/CLionProjects/domlab6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/adelinazagitova/CLionProjects/domlab6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/adelinazagitova/CLionProjects/domlab6/cmake-build-debug/CMakeFiles/domlab6.dir
