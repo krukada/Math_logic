@@ -1,0 +1,3 @@
+/Users/adelinazagitova/CLionProjects/matlogic/lab3_2_matlab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/adelinazagitova/CLionProjects/matlogic/lab3_2_matlab/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/adelinazagitova/CLionProjects/matlogic/lab3_2_matlab/cmake-build-debug/CMakeFiles/lab3.dir
